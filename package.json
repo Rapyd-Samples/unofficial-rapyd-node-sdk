@@ -10,7 +10,7 @@
   "author": "Domingo Lupo",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.27.2",
+    "axios": "^0.33.0",
     "crypto-js": "^4.1.1"
   },
   "devDependencies": {
